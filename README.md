@@ -6,4 +6,4 @@ For more details see our pre-print on bioRxiv:
 
 
 
-This introduction to MarkerCapsule shows a basic workflow for single cell typing.
+For running the **MarkerCapsule** please update the dataset and corresponing output capsule. For example to run **MarkerCapsule** with dataset-2, update the number of output capsule (num_caps) as 15. 
