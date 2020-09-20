@@ -7,3 +7,11 @@ For more details see our pre-print on bioRxiv:
 
 
 For running the **MarkerCapsule** please update the dataset and corresponing output capsule. For example to run **MarkerCapsule** with dataset-2, update the number of output capsule (num_caps) as 15. 
+
+## Usage 
+
+For usage examples and guided walkthroughs, check the followig links:
+
+[sample run of MarkerCapsule in CITE-Seq data]
+
+[sample run of MArkerCapsule in PBMC ATAC-seq data]
