@@ -14,7 +14,7 @@ For usage examples and guided walkthroughs, check the followig links:
 
 [Integrating Multiple Single-Cell RNA-seq Datasets](https://sumantaray.github.io/Integration-using-AutoEncoder/)
 
-[sample run of MarkerCapsule in CITE-Seq data]
+[sample run of MarkerCapsule in CITE-Seq data](https://sumantaray.github.io/CITE-seq/)
 
 [sample run of MArkerCapsule in PBMC ATAC-seq data]
 
