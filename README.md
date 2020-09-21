@@ -12,7 +12,7 @@ For running the **MarkerCapsule** please update the dataset and corresponing out
 
 For usage examples and guided walkthroughs, check the followig links:
 
-[Integrating Multiple Single-Cell RNA-seq Datasets]
+[Integrating Multiple Single-Cell RNA-seq Datasets](https://sumantaray.github.io/Integration-using-AutoEncoder/)
 
 [sample run of MarkerCapsule in CITE-Seq data]
 
